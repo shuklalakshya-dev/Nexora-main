@@ -1,4 +1,4 @@
-// App.js
+// App.js - hello
 "use client";
 import React, { useEffect } from "react";
 import "./styles.css";
